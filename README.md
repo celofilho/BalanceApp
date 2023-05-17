@@ -1,5 +1,5 @@
 
-# BalanceAPp
+# BalanceApp
 
 Solution Design
 https://celofilho.github.io/c4FluxoCaixa
